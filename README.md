@@ -1,4 +1,4 @@
-# 🪙 Comparador Crypt
+# 🪙 Comparador Crypto
 
 **Comparador Crypt** é uma aplicação web desenvolvida com **React + Vite** que permite comparar os preços de duas criptomoedas em tempo real, utilizando a API pública da [CoinGecko](https://www.coingecko.com/). É uma ferramenta simples, intuitiva e útil para entusiastas e investidores acompanharem rapidamente cotações e histórico de comparação.
 
